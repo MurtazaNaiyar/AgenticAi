@@ -1,2 +1,2 @@
-# AgenticAi
-All about Ai Agents
+# AgenticAI
+All about Agentic AI
