@@ -20,3 +20,7 @@ wikipedia
 langgraph-cli[inmem]
 faiss-cpu
 langchain_huggingface
+sentence-transformers
+langchain_experimental
+langchain_tavily
+tqdm
