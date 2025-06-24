@@ -24,3 +24,4 @@ sentence-transformers
 langchain_experimental
 langchain_tavily
 tqdm
+chromadb
